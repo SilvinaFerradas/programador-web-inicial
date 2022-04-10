@@ -3,3 +3,6 @@ manzana
 galletitas
 dulces
 huevos
+pan
+frutillas
+bebidas
